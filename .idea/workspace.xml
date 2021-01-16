@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="431b063e-f280-4028-977c-48b1e6361520" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mAIAW0EeolkQc8JKM9EtUsNCqD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../startbootstrap-sb-admin-2-gh-pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\IoT\vistas\basico" />
+      <recent name="C:\xampp\htdocs\IoT\vistas" />
+      <recent name="C:\xampp\htdocs\IoT\ajax" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\IoT\public\css" />
+      <recent name="C:\xampp\htdocs\IoT\public\js" />
+      <recent name="C:\xampp\htdocs\IoT\vistas\files" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="431b063e-f280-4028-977c-48b1e6361520" name="Default Changelist" comment="" />
+      <created>1608929825288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608929825288</updated>
+      <workItem from="1608929826350" duration="4049000" />
+      <workItem from="1609424754086" duration="5693000" />
+      <workItem from="1609734750496" duration="1472000" />
+      <workItem from="1609784434069" duration="2653000" />
+      <workItem from="1609957022126" duration="2786000" />
+      <workItem from="1610032413792" duration="5945000" />
+      <workItem from="1610598484101" duration="4848000" />
+      <workItem from="1610688750409" duration="4307000" />
+      <workItem from="1610693288098" duration="619000" />
+      <workItem from="1610781914111" duration="8492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610787353451">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="310" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1920.43.1920.1040@-1920.43.1920.1040" timestamp="1608953918153" />
+    <state x="690" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1920.43.1920.1040@0.40.1920.1040" timestamp="1610787353451" />
+    <state x="740" y="315" key="FileChooserDialogImpl" timestamp="1610786361294">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="315" key="FileChooserDialogImpl/0.40.1920.1040/-1920.43.1920.1040@0.40.1920.1040" timestamp="1610786361294" />
+    <state x="787" y="283" key="NewPhpClassDialog" timestamp="1609785226121">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="787" y="283" key="NewPhpClassDialog/0.40.1920.1040/-1920.43.1920.1040@0.40.1920.1040" timestamp="1609785226121" />
+    <state x="-1126" y="486" key="NewPhpFileDialog" timestamp="1609425312600">
+      <screen x="-1920" y="43" width="1920" height="1040" />
+    </state>
+    <state x="-1126" y="486" key="NewPhpFileDialog/0.40.1920.1040/-1920.43.1920.1040@-1920.43.1920.1040" timestamp="1609425312600" />
+  </component>
+</project>
