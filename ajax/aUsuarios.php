@@ -96,10 +96,8 @@ switch ($_GET["op"]){
         while ($reg=$rspta->fetch_object()){
             $data[]=array(
                 "0"=>($reg->estado)?
-                    '<button class="btn btn-success btn"  onclick="registro('.$reg->numero_c.')"><i class="fas fa-eye fa-sm text-white-50"></i></button> &nbsp'.
                     '<button class="btn btn-warning btn"  onclick="mostrar('.$reg->clave.')"><i class="fas fa-edit fa-sm text-white-50"></i></button> &nbsp'.
                     '<button class="btn btn-danger btn"  onclick="desactivar('.$reg->clave.')"><i class="fas fa-window-close fa-sm text-white-50"></i></button>':
-                    '<button class="btn btn-success btn"  onclick="registro('.$reg->numero_c.')"><i class="fas fa-eye fa-sm text-white-50"></i></button> &nbsp'.
                     '<button class="btn btn-warning btn"  onclick="mostrar('.$reg->clave.')"><i class="fas fa-edit fa-sm text-white-50"></i></button> &nbsp'.
                     '<button class="btn btn-primary btn"  onclick="activar('.$reg->clave.')"><i class="fas fa-check fa-sm text-white-50"></i></button>',
                 "1"=>$reg->nombre,

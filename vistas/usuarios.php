@@ -83,7 +83,7 @@ require "basico/head.php";
                       </div>
                       <div class="card-body">
                           <div class="table-responsive">
-                              <table id="tbUsuarios" class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                              <table id="tbUsuarios" class="table table-bordered" width="100%" cellspacing="0">
                                   <thead>
                                   <tr>
                                       <th>Menú</th>
@@ -96,6 +96,15 @@ require "basico/head.php";
                                   <tbody>
 
                                   </tbody>
+                                  <tfoot>
+                                  <tr>
+                                      <th>Menú</th>
+                                      <th>Nombre</th>
+                                      <th>Email</th>
+                                      <th>Foto</th>
+                                      <th>Estado</th>
+                                  </tr>
+                                  </tfoot>
                               </table>
                           </div>
                       </div>
